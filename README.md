@@ -1,1 +1,1 @@
-# This is clone of Amazon Website
+This is clone of Amazon Website
